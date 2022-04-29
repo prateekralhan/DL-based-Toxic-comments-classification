@@ -5,6 +5,9 @@ Deep learning based classification model for classifying toxic comments built on
 * Simply run the command ***pip install -r requirements.txt*** to install the necessary dependencies.
 * In case you need to use your GPU for computation, ensure that you have the right CUDA drivers and CUDNN installed. You can read more about this [here.](https://www.tensorflow.org/install/gpu)
 
+## Dataset:
+The dataset has been taken from [here.](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data)
+
 ## Usage:
 1. Navigate to the `notebooks` directory and simply run the command: 
 ```
