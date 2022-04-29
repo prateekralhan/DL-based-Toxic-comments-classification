@@ -9,11 +9,16 @@ Deep learning based classification model for classifying toxic comments built on
 The dataset has been taken from [here.](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data)
 
 ## Usage:
-1. Navigate to the `notebooks` directory and simply run the command: 
+1. Download the datasets from the above mentioned link and unzip them.
+2. Clone this repository and create a directory named `dataset` in the same directory as the cloned repo. Your directory structure should look like this:
+
+![2](https://user-images.githubusercontent.com/29462447/166077220-af35f16c-75f3-48e6-af52-3ef711dc9041.png)
+
+3. Navigate to the `notebooks` directory and simply run the command: 
 ```
 jupyter notebook
 ```
-2. This will launch the jupyter notebook (.ipynb file) in your web browser. Simply hit `Shift+Enter` to execute all the cells.
+4. This will launch the jupyter notebook (.ipynb file) in your web browser. Simply hit `Shift+Enter` to execute all the cells. Your generated model will be saved in `models` directory.
 
 
 ## Results 
