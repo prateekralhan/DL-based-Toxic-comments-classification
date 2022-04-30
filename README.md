@@ -27,10 +27,13 @@ jupyter notebook
 ![1](https://user-images.githubusercontent.com/29462447/166076707-f3e590da-3d37-4fe7-a352-103845274b24.png)
 
 #### Training,Validation Loss:
-TODO
+![3](https://user-images.githubusercontent.com/29462447/166093355-f394e7fd-d59a-4138-ac58-d192727c3bdc.png)
 
 #### Evaluation metrics:
-TODO
+![4](https://user-images.githubusercontent.com/29462447/166093357-89578666-84b1-4775-8c26-c858cf9dc0f1.png)
+
+*(Hyperparameters tuning needed for refining the results and improving the metrics.)*
+
 
 
 
